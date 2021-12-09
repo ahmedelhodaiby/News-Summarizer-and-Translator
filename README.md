@@ -1,5 +1,6 @@
 # Project summary
 News Summarizer and Translator from English to Arabic, that can scrape news articles from almost any international news website.
+Project was made using pre-trained Deep Learning models from [Hugging Face](https://huggingface.co/).
 
 # Motivation
 Facilitate access to international news to Arabic readers. Inspired by millions of Arabs who can't read English and want to be aware of international politics, events, etc...
